@@ -8,7 +8,6 @@ projects:
     slug: get-started-with-bun
 
 chapters:
-
     - title: Introduction
       slug: introduction
       description: This chapter introduces you to the course
